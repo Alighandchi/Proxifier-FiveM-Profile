@@ -16,7 +16,8 @@ Proxifier FiveM Profile offers a suite of free tools that help clients access Fi
 
 <details>
   <summary>Click for Server Side </summary>
-- Get a custom configuration from https://iMobotech.com
+
+- Get a custom configuration from [iMobotech](https://imobotech.com/)
 - Customized it according to may needs
 - Give access key to your Client
 
@@ -24,9 +25,10 @@ Proxifier FiveM Profile offers a suite of free tools that help clients access Fi
 
 <details>
   <summary>Click for Client Side </summary>
+
 - Download the configuration used by the game server
-- Install and run it inside the Proxifier program
-- Go to the profile section > proxy server > edit server list > update the information provided to you by the game server and that's it.
+- Install and run it inside the [Proxifier](https://www.proxifier.com/download/) program
+- Go to the profile section > Proxy server > Edit server list > Update the information provided to you by the game server and that's it.
 - Your proxy is active and open your FiveM and enjoy the game.
 
 </details>
