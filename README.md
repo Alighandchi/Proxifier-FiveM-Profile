@@ -1,4 +1,4 @@
-### Premium Proxifier Profile
+### Proxifier FiveM Profile
 Proxifier FiveM Profile is determined to provide easy-to-use data access solutions and proxy management tools for FiveM Server. This is a personalized system for the needs of all FiveM server owners and they can limit the access of their users only to their server and reduce additional costs for their service.
 
 
